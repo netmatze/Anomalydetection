@@ -1,0 +1,6 @@
+numpy
+scipy
+pandas
+pyod
+coupled_biased_random_walks
+

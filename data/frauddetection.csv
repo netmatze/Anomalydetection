@@ -1,0 +1,13 @@
+ID,Gender,Education,Marriage,Income,Cheat
+1,male,master,divorced,low,yes
+2,female,master,married,medium,no
+3,male,master,single,high,no
+4,male,bachelor,married,medium,no
+5,female,master,divorced,high,no
+6,male,PhD,married,high,no
+7,male,master,single,high,no
+8,female,PhD,single,medium,no
+9,male,PhD,married,medium,no
+10,male,bachelor,single,low,no
+11,female,PhD,married,medium,no
+12,male,master,single,low,no
